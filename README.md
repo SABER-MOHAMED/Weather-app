@@ -3,5 +3,3 @@
 
 ### IDE Used: DEV C++ 🛠
 ### C++ -v Standard: C++ 14 ⚙
-### Detailed Tutorial: https://en.wikipedia.org/wiki/Observer_pattern
-
